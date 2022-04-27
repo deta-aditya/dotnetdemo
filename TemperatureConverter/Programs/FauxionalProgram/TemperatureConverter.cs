@@ -26,13 +26,15 @@ public sealed record Fahrenheit(double Value) : Temperature(Value)
 
 public class TemperatureConverter
 {
-    public Result<IProgramError, TemperatureUnit> ToUnit(string? unitString) =>
-        unitString switch
+    public Result<IProgramError, TemperatureUnit> ToUnit(string? unitString)
+    {
+        return unitString switch
         {
             "C" => Result<IProgramError, TemperatureUnit>.Ok(TemperatureUnit.Celsius),
             "F" => Result<IProgramError, TemperatureUnit>.Ok(TemperatureUnit.Fahrenheit),
-            _ => Result<IProgramError, TemperatureUnit>.Error(new ParseUnitError()),
+            _ => Result<IProgramError, TemperatureUnit>.Error(new ParseUnitError())
         };
+    }
 
     public Result<IProgramError, Temperature> ToTemperature(string? unitString, double value)
     {
@@ -40,7 +42,7 @@ public class TemperatureConverter
         {
             "C" => Result<IProgramError, Temperature>.Ok(new Celsius(value)),
             "F" => Result<IProgramError, Temperature>.Ok(new Fahrenheit(value)),
-            _ => Result<IProgramError, Temperature>.Error(new ParseUnitError()),
+            _ => Result<IProgramError, Temperature>.Error(new ParseUnitError())
         };
     }
 

@@ -16,7 +16,7 @@ public class Program : IProgram
         var inputValue = _prompt.Ask("Temperature value: ");
         var inputUnitString = _prompt.Ask("Convert from (C/F): ");
         var outputUnitString = _prompt.Ask("Convert to (C/F): ");
-        
+
         var inputFloat = TryParseFloat(inputValue);
         var from = inputFloat.Bind(f => _temperatureConverter.ToTemperature(inputUnitString, f));
         var to = _temperatureConverter.ToUnit(outputUnitString);
@@ -38,11 +38,11 @@ public class Program : IProgram
     {
         return $"{input} = {output}";
     }
-    
+
     private static Result<IProgramError, float> TryParseFloat(string? value)
     {
-        return float.TryParse(value, out var floatResult) 
-            ? Result<IProgramError, float>.Ok(floatResult) 
+        return float.TryParse(value, out var floatResult)
+            ? Result<IProgramError, float>.Ok(floatResult)
             : Result<IProgramError, float>.Error(new ParseFloatError());
     }
 }

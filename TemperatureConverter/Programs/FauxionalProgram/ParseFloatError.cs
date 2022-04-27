@@ -1,6 +1,6 @@
 ﻿namespace TemperatureConverter.Programs.FauxionalProgram;
 
-class ParseFloatError : IProgramError
+internal class ParseFloatError : IProgramError
 {
     public string Message()
     {

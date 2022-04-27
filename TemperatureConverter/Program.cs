@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using TemperatureConverter.Programs;
-using TemperatureConverter.Programs.FauxionalProgram;
 using FauxionalProgram = TemperatureConverter.Programs.FauxionalProgram.Program;
 using TraditionalProgram = TemperatureConverter.Programs.TraditionalProgram.Program;
 
