@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kQ/N9QbZd5PL+99F3qUW38zU9cXshveRp0J/qUxCyhyADzBSfhwZIyJUzchIY7iu7AhRoPAqRXq/QkYk1rWslA==",
+  "success": true,
+  "projectFilePath": "D:\\Deta\\Personal\\dotnet\\MyFirstConsoleApp\\TemperatureConverterFSharp\\TemperatureConverterFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deta\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

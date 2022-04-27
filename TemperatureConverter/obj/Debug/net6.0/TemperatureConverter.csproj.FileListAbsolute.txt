@@ -1,0 +1,15 @@
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\bin\Debug\net6.0\TemperatureConverter.exe
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\bin\Debug\net6.0\TemperatureConverter.deps.json
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\bin\Debug\net6.0\TemperatureConverter.runtimeconfig.json
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\bin\Debug\net6.0\TemperatureConverter.dll
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\bin\Debug\net6.0\TemperatureConverter.pdb
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.csproj.AssemblyReference.cache
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.AssemblyInfoInputs.cache
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.AssemblyInfo.cs
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.dll
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\refint\TemperatureConverter.dll
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.pdb
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.genruntimeconfig.cache
+D:\Deta\Personal\dotnet\MyFirstConsoleApp\MyFirstConsoleApp\TemperatureConverter\obj\Debug\net6.0\ref\TemperatureConverter.dll
