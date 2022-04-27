@@ -19,5 +19,5 @@ An implementation demo of temperature converter implemented in C# using:
 
 ### TemperatureConverterFSharp
 
-An implementation demo of temperatur converter using one of the *best* language out there: F#.
+An implementation demo of temperature converter using one of the *best* language out there: F#.
 Look at how elegant and succinct it is!
